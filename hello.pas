@@ -4,4 +4,5 @@
   'English':Print('Hello');
   'Russian':Print('Привет');
   'French':Print('bonjour à');
+  'Italien':Print('ciao');
 end.
