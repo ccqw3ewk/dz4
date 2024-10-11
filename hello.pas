@@ -7,4 +7,5 @@
   'Italien':Print('ciao');
   'Chinese':Print('嗨。');
   'Arabian':Print('مرحبًا');
+  'German':Print('Hallo');
 end.
