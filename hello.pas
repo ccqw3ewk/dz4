@@ -6,4 +6,5 @@
   'French':Print('bonjour à');
   'Italien':Print('ciao');
   'Chinese':Print('嗨。');
+  'Arabian':Print('مرحبًا');
 end.
