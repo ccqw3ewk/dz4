@@ -3,4 +3,5 @@
   case language of
   'English':Print('Hello');
   'Russian':Print('Привет');
+  'French':Print('bonjour à');
 end.
